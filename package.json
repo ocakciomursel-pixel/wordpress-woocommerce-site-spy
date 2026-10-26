@@ -1,0 +1,27 @@
+{
+  "name": "@lucacelli/wordpress-woocommerce-site-spy",
+  "version": "2.1.0",
+  "description": "Detect active WordPress themes, installed plugins, WooCommerce cart status, exposed wp-json REST API namespaces, and agency contact details across any list of domains.",
+  "type": "module",
+  "main": "index.js",
+  "homepage": "https://apify.com/lucacelli/wordpress-woocommerce-site-spy",
+  "keywords": [
+    "google-maps-scraper",
+    "google-maps-api",
+    "lead-generation",
+    "b2b-leads",
+    "email-extractor",
+    "apify-actor",
+    "local-seo",
+    "google-places-api",
+    "contact-scraper",
+    "phone-number-scraper",
+    "business-directory",
+    "n8n-workflow",
+    "mcp-server",
+    "web-scraping",
+    "sales-automation"
+  ],
+  "author": "Lucacelli Cloud Data Engineering",
+  "license": "MIT"
+}
