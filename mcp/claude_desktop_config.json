@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "lucacelli-wordpress-woocommerce-site-spy": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@apify/actors-mcp-server",
+        "--actors",
+        "lucacelli/wordpress-woocommerce-site-spy"
+      ],
+      "env": {
+        "APIFY_TOKEN": "YOUR_APIFY_TOKEN_HERE"
+      }
+    }
+  }
+}
